@@ -18,4 +18,5 @@
 	echo "<p>The average score is $ave. You $status.</p>";
 ?>
 </body>
+
 </html>

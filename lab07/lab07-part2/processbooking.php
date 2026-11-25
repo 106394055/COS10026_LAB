@@ -68,4 +68,5 @@
 	echo "Number of travellers: $partySize</p>";
 ?>
 </body>
+
 </html>
